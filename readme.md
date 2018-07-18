@@ -10,8 +10,8 @@ After calculating the imbalance the counter weights can be distributed onto
 the blades.
 
 ## Notebooks
-The jupyter notebooks can be viewed under:
-http://nbviewer.jupyter.org/github/svenmayer/balancer/blob/master/excentricity.ipynp
+The jupyter notebooks can be viewed under:  
+http://nbviewer.jupyter.org/github/svenmayer/balancer/blob/master/excentricity.ipynb
 
 ## Hardware
 The hardware that is used is:
